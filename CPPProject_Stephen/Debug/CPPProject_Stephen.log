@@ -1,0 +1,16 @@
+﻿  NPC.cpp
+  monsters.cpp
+  map.cpp
+  main.cpp
+  items.cpp
+  Inventory.cpp
+  hero.cpp
+c:\users\stephen.diep\desktop\fallenbrothers\cppproject_stephen\hero.cpp(28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\stephen.diep\desktop\fallenbrothers\cppproject_stephen\hero.cpp(29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\stephen.diep\desktop\fallenbrothers\cppproject_stephen\hero.cpp(30): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  game.cpp
+  events.cpp
+  battle.cpp
+  Generating Code...
+  CPPProject_Stephen.vcxproj -> C:\Users\Stephen.Diep\Desktop\FallenBrothers\Debug\CPPProject_Stephen.exe
+  CPPProject_Stephen.vcxproj -> C:\Users\Stephen.Diep\Desktop\FallenBrothers\Debug\CPPProject_Stephen.pdb (Partial PDB)
